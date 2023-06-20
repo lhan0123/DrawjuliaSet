@@ -56,21 +56,21 @@ NAME: stmfd sp!,{lr}    @push return address onto stack
 
 
       ldr   r0, =msg1   @load msg1 address in r0
-      bl    printf      @print("Team 05\n")
+      bl    printf      @print("Team\n")
 
 
       ldr   r0, =msg2   @load msg2 address in r0
-      bl    printf      @print("Chen Tzu Ying")
+      bl    printf      @print("name1")
 
 
 
       ldr   r0, =msg3   @load msg3 address in r0
-      bl    printf      @print("Liang Han Ting")
+      bl    printf      @print("name2")
 
 
 
       ldr   r0, =msg4   @load msg4 address in r0
-      bl    printf      @print("Yang yu sam")
+      bl    printf      @print("name3")
 
 
       ldr   r0, =msg5   @load msg5 address in r0
