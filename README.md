@@ -1,5 +1,5 @@
 # Project Description
-This project aims to draw a Julia Set image using ARM assembly language. The program consists of several functions that perform various tasks, including storing and printing group member information, calculating and managing IDs, and drawing the Julia Set graph. (images/result.JPG)
+This project aims to draw a Julia Set image using ARM assembly language. The program consists of several functions that perform various tasks, including storing and printing group member information, calculating and managing IDs, and drawing the Julia Set graph. [images/result.JPG]
 
 ## Functions:
 NAME Function:
